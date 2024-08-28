@@ -1,0 +1,15 @@
+C:\Users\Альбина\OneDrive\Desktop\dz\CSharpEducation\ConsoleApp1\bin\Debug\net6.0\TaskPhonebook.exe
+C:\Users\Альбина\OneDrive\Desktop\dz\CSharpEducation\ConsoleApp1\bin\Debug\net6.0\TaskPhonebook.deps.json
+C:\Users\Альбина\OneDrive\Desktop\dz\CSharpEducation\ConsoleApp1\bin\Debug\net6.0\TaskPhonebook.runtimeconfig.json
+C:\Users\Альбина\OneDrive\Desktop\dz\CSharpEducation\ConsoleApp1\bin\Debug\net6.0\TaskPhonebook.dll
+C:\Users\Альбина\OneDrive\Desktop\dz\CSharpEducation\ConsoleApp1\bin\Debug\net6.0\TaskPhonebook.pdb
+C:\Users\Альбина\OneDrive\Desktop\dz\CSharpEducation\ConsoleApp1\obj\Debug\net6.0\TaskPhonebook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Альбина\OneDrive\Desktop\dz\CSharpEducation\ConsoleApp1\obj\Debug\net6.0\TaskPhonebook.AssemblyInfoInputs.cache
+C:\Users\Альбина\OneDrive\Desktop\dz\CSharpEducation\ConsoleApp1\obj\Debug\net6.0\TaskPhonebook.AssemblyInfo.cs
+C:\Users\Альбина\OneDrive\Desktop\dz\CSharpEducation\ConsoleApp1\obj\Debug\net6.0\TaskPhonebook.csproj.CoreCompileInputs.cache
+C:\Users\Альбина\OneDrive\Desktop\dz\CSharpEducation\ConsoleApp1\obj\Debug\net6.0\TaskPhonebook.sourcelink.json
+C:\Users\Альбина\OneDrive\Desktop\dz\CSharpEducation\ConsoleApp1\obj\Debug\net6.0\TaskPhonebook.dll
+C:\Users\Альбина\OneDrive\Desktop\dz\CSharpEducation\ConsoleApp1\obj\Debug\net6.0\refint\TaskPhonebook.dll
+C:\Users\Альбина\OneDrive\Desktop\dz\CSharpEducation\ConsoleApp1\obj\Debug\net6.0\TaskPhonebook.pdb
+C:\Users\Альбина\OneDrive\Desktop\dz\CSharpEducation\ConsoleApp1\obj\Debug\net6.0\TaskPhonebook.genruntimeconfig.cache
+C:\Users\Альбина\OneDrive\Desktop\dz\CSharpEducation\ConsoleApp1\obj\Debug\net6.0\ref\TaskPhonebook.dll
